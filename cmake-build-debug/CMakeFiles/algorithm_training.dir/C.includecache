@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/admin/workspace/clang/algorithm-training/src/main/clang/link_list_reversal/LinkListReversal.c
+../../head/subfield/link_list_reversal/LinkListReversal.h
+/home/user/admin/workspace/clang/algorithm-training/src/main/head/subfield/link_list_reversal/LinkListReversal.h
+
+/home/user/admin/workspace/clang/algorithm-training/src/main/head/base/base.h
+stdio.h
+-
+malloc.h
+-
+
+/home/user/admin/workspace/clang/algorithm-training/src/main/head/subfield/link_list_reversal/LinkListReversal.h
+../../base/base.h
+/home/user/admin/workspace/clang/algorithm-training/src/main/head/base/base.h
+

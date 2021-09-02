@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.20)
+project(algorithm_training C)
+
+set(CMAKE_C_STANDARD 99)
+
+file(GLOB src_head_base "src/main/head/base/base.h")
+file(GLOB src_c_src_0 "src/main/clang/link_list_reversal/*.c")
+
+add_executable(algorithm_training main.c src/main/head/export_index.h ${src_head_base} ${src_c_src_0})

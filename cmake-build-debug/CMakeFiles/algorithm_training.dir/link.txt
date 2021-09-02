@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/algorithm_training.dir/main.c.o CMakeFiles/algorithm_training.dir/src/main/clang/link_list_reversal/LinkListReversal.c.o -o algorithm_training 
