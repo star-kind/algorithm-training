@@ -1,6 +1,6 @@
 #include "src/main/head/export_index.h"
 
 int main() {
-    link_list_export();
+    export_two_stack_one_arr();
     return 0;
 }

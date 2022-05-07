@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/algorithm_training.dir/main.c.o"
+  "CMakeFiles/algorithm_training.dir/src/main/clang/deque/DequeDemo.c.o"
   "CMakeFiles/algorithm_training.dir/src/main/clang/link_list_reversal/LinkListReversal.c.o"
+  "CMakeFiles/algorithm_training.dir/src/main/clang/stack/TwoStackInOneArray.c.o"
   "algorithm_training"
   "algorithm_training.pdb"
 )
