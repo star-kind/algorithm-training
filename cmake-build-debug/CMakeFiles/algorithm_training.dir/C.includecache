@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/stack/TwoStackInOneArray.c
+/home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c
 ../../head/export_index.h
 /home/user/admin/workspaces/clanguage/algorithm-training/src/main/head/export_index.h
 
@@ -18,6 +18,12 @@ malloc.h
 stdbool.h
 -
 stdlib.h
+-
+string.h
+-
+unistd.h
+-
+fcntl.h
 -
 
 /home/user/admin/workspaces/clanguage/algorithm-training/src/main/head/export_index.h

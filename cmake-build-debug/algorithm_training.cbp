@@ -79,6 +79,12 @@
 		<Unit filename="/home/user/admin/workspaces/clanguage/algorithm-training/main.c">
 			<Option target="algorithm_training"/>
 		</Unit>
+		<Unit filename="/home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c">
+			<Option target="algorithm_training"/>
+		</Unit>
+		<Unit filename="/home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/LevelOrderTree.c">
+			<Option target="algorithm_training"/>
+		</Unit>
 		<Unit filename="/home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/deque/DequeDemo.c">
 			<Option target="algorithm_training"/>
 		</Unit>

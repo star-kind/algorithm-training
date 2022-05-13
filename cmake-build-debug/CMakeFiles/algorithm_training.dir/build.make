@@ -128,12 +128,40 @@ CMakeFiles/algorithm_training.dir/src/main/clang/stack/TwoStackInOneArray.c.s: c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_training.dir/src/main/clang/stack/TwoStackInOneArray.c.s"
 	/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/stack/TwoStackInOneArray.c -o CMakeFiles/algorithm_training.dir/src/main/clang/stack/TwoStackInOneArray.c.s
 
+CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.o: CMakeFiles/algorithm_training.dir/flags.make
+CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.o: ../src/main/clang/BinaryTree/LevelOrderTree.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspaces/clanguage/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.o"
+	/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.o -c /home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/LevelOrderTree.c
+
+CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.i"
+	/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/LevelOrderTree.c > CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.i
+
+CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.s"
+	/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/LevelOrderTree.c -o CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.s
+
+CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o: CMakeFiles/algorithm_training.dir/flags.make
+CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o: ../src/main/clang/BinaryTree/BinaryTreeLevelOrder.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspaces/clanguage/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o"
+	/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o -c /home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c
+
+CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.i"
+	/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c > CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.i
+
+CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.s"
+	/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c -o CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.s
+
 # Object files for target algorithm_training
 algorithm_training_OBJECTS = \
 "CMakeFiles/algorithm_training.dir/main.c.o" \
 "CMakeFiles/algorithm_training.dir/src/main/clang/link_list_reversal/LinkListReversal.c.o" \
 "CMakeFiles/algorithm_training.dir/src/main/clang/deque/DequeDemo.c.o" \
-"CMakeFiles/algorithm_training.dir/src/main/clang/stack/TwoStackInOneArray.c.o"
+"CMakeFiles/algorithm_training.dir/src/main/clang/stack/TwoStackInOneArray.c.o" \
+"CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.o" \
+"CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o"
 
 # External object files for target algorithm_training
 algorithm_training_EXTERNAL_OBJECTS =
@@ -142,9 +170,11 @@ algorithm_training: CMakeFiles/algorithm_training.dir/main.c.o
 algorithm_training: CMakeFiles/algorithm_training.dir/src/main/clang/link_list_reversal/LinkListReversal.c.o
 algorithm_training: CMakeFiles/algorithm_training.dir/src/main/clang/deque/DequeDemo.c.o
 algorithm_training: CMakeFiles/algorithm_training.dir/src/main/clang/stack/TwoStackInOneArray.c.o
+algorithm_training: CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.o
+algorithm_training: CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o
 algorithm_training: CMakeFiles/algorithm_training.dir/build.make
 algorithm_training: CMakeFiles/algorithm_training.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/user/admin/workspaces/clanguage/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable algorithm_training"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/user/admin/workspaces/clanguage/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable algorithm_training"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm_training.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

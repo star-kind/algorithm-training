@@ -169,6 +169,60 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/main.c.s
 .PHONY : main.c.s
 
+src/main/clang/BinaryTree/BinaryTreeLevelOrder.o: src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o
+
+.PHONY : src/main/clang/BinaryTree/BinaryTreeLevelOrder.o
+
+# target to build an object file
+src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o
+.PHONY : src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o
+
+src/main/clang/BinaryTree/BinaryTreeLevelOrder.i: src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.i
+
+.PHONY : src/main/clang/BinaryTree/BinaryTreeLevelOrder.i
+
+# target to preprocess a source file
+src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.i
+.PHONY : src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.i
+
+src/main/clang/BinaryTree/BinaryTreeLevelOrder.s: src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.s
+
+.PHONY : src/main/clang/BinaryTree/BinaryTreeLevelOrder.s
+
+# target to generate assembly for a file
+src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.s
+.PHONY : src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.s
+
+src/main/clang/BinaryTree/LevelOrderTree.o: src/main/clang/BinaryTree/LevelOrderTree.c.o
+
+.PHONY : src/main/clang/BinaryTree/LevelOrderTree.o
+
+# target to build an object file
+src/main/clang/BinaryTree/LevelOrderTree.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.o
+.PHONY : src/main/clang/BinaryTree/LevelOrderTree.c.o
+
+src/main/clang/BinaryTree/LevelOrderTree.i: src/main/clang/BinaryTree/LevelOrderTree.c.i
+
+.PHONY : src/main/clang/BinaryTree/LevelOrderTree.i
+
+# target to preprocess a source file
+src/main/clang/BinaryTree/LevelOrderTree.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.i
+.PHONY : src/main/clang/BinaryTree/LevelOrderTree.c.i
+
+src/main/clang/BinaryTree/LevelOrderTree.s: src/main/clang/BinaryTree/LevelOrderTree.c.s
+
+.PHONY : src/main/clang/BinaryTree/LevelOrderTree.s
+
+# target to generate assembly for a file
+src/main/clang/BinaryTree/LevelOrderTree.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.s
+.PHONY : src/main/clang/BinaryTree/LevelOrderTree.c.s
+
 src/main/clang/deque/DequeDemo.o: src/main/clang/deque/DequeDemo.c.o
 
 .PHONY : src/main/clang/deque/DequeDemo.o
@@ -262,6 +316,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/main/clang/BinaryTree/BinaryTreeLevelOrder.o"
+	@echo "... src/main/clang/BinaryTree/BinaryTreeLevelOrder.i"
+	@echo "... src/main/clang/BinaryTree/BinaryTreeLevelOrder.s"
+	@echo "... src/main/clang/BinaryTree/LevelOrderTree.o"
+	@echo "... src/main/clang/BinaryTree/LevelOrderTree.i"
+	@echo "... src/main/clang/BinaryTree/LevelOrderTree.s"
 	@echo "... src/main/clang/deque/DequeDemo.o"
 	@echo "... src/main/clang/deque/DequeDemo.i"
 	@echo "... src/main/clang/deque/DequeDemo.s"
