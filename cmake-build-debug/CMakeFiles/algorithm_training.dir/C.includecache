@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/admin/workspaces/gcc-gpp/algorithm-training/main.c
+src/main/head/export_index.h
+/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/head/export_index.h
+
+/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/head/base.h
+stdio.h
+-
+malloc.h
+-
+stdbool.h
+-
+stdlib.h
+-
+
+/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/head/export_index.h
+base.h
+/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/head/base.h
+

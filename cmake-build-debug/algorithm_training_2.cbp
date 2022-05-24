@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6"/>
 	<Project>
-		<Option title="algorithm_training"/>
+		<Option title="algorithm_training_2"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
 		<Option virtualFolders="CMake Files\;"/>
@@ -127,12 +127,6 @@
 			<Option target="algorithm_training"/>
 		</Unit>
 		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/clang/stack/TwoStackInOneArray.c">
-			<Option target="algorithm_training"/>
-		</Unit>
-		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/clang/tree/BinTree.cpp">
-			<Option target="algorithm_training_2"/>
-		</Unit>
-		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/clang/tree/LevelOrderTree.c">
 			<Option target="algorithm_training"/>
 		</Unit>
 		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/head/base.h">

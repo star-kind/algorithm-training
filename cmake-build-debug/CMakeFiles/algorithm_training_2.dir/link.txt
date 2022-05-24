@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/algorithm_training_2.dir/main2.cpp.o -o algorithm_training_2 

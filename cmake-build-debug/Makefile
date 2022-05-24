@@ -117,6 +117,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named algorithm_training_2
+
+# Build rule for target.
+algorithm_training_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 algorithm_training_2
+.PHONY : algorithm_training_2
+
+# fast build rule for target.
+algorithm_training_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_2.dir/build.make CMakeFiles/algorithm_training_2.dir/build
+.PHONY : algorithm_training_2/fast
+
+#=============================================================================
 # Target rules for targets named algorithm_training
 
 # Build rule for target.
@@ -152,6 +165,30 @@ main.s: main.c.s
 main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/main.c.s
 .PHONY : main.c.s
+
+main2.o: main2.cpp.o
+.PHONY : main2.o
+
+# target to build an object file
+main2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_2.dir/build.make CMakeFiles/algorithm_training_2.dir/main2.cpp.o
+.PHONY : main2.cpp.o
+
+main2.i: main2.cpp.i
+.PHONY : main2.i
+
+# target to preprocess a source file
+main2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_2.dir/build.make CMakeFiles/algorithm_training_2.dir/main2.cpp.i
+.PHONY : main2.cpp.i
+
+main2.s: main2.cpp.s
+.PHONY : main2.s
+
+# target to generate assembly for a file
+main2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_2.dir/build.make CMakeFiles/algorithm_training_2.dir/main2.cpp.s
+.PHONY : main2.cpp.s
 
 src/main/clang/deque/DequeDemo.o: src/main/clang/deque/DequeDemo.c.o
 .PHONY : src/main/clang/deque/DequeDemo.o
@@ -234,9 +271,13 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... algorithm_training"
+	@echo "... algorithm_training_2"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... main2.o"
+	@echo "... main2.i"
+	@echo "... main2.s"
 	@echo "... src/main/clang/deque/DequeDemo.o"
 	@echo "... src/main/clang/deque/DequeDemo.i"
 	@echo "... src/main/clang/deque/DequeDemo.s"
