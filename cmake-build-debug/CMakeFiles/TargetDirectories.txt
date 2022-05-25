@@ -1,3 +1,4 @@
-/home/user/admin/workspaces/clanguage/algorithm-training/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/user/admin/workspaces/clanguage/algorithm-training/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/user/admin/workspaces/clanguage/algorithm-training/cmake-build-debug/CMakeFiles/algorithm_training.dir
+/home/user/admin/workspace/clang/algorithm-training/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/admin/workspace/clang/algorithm-training/cmake-build-debug/CMakeFiles/algorithm_training02.dir
+/home/user/admin/workspace/clang/algorithm-training/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/user/admin/workspace/clang/algorithm-training/cmake-build-debug/CMakeFiles/algorithm_training.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/TreeCase.cpp
+../../head/c_plus2.h
+/home/user/admin/workspace/clang/algorithm-training/src/main/head/c_plus2.h
+
+/home/user/admin/workspace/clang/algorithm-training/src/main/head/c_plus2.h
+string
+-
+cstring
+-
+iostream
+-
+
