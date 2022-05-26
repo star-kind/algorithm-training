@@ -4,8 +4,14 @@
 CMakeFiles/algorithm_training02.dir/main01.cpp.o: \
  ../main01.cpp \
  ../src/main/head/c_plus2.h
+CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.o: \
+ ../src/main/clang/binary_tree/BinTreeDemo.cpp \
+ ../src/main/head/c_plus2.h
 CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeCase.cpp.o: \
  ../src/main/clang/binary_tree/TreeCase.cpp \
+ ../src/main/head/c_plus2.h
+CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.o: \
+ ../src/main/clang/binary_tree/TreeDemo.cpp \
  ../src/main/head/c_plus2.h
 CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeSample.cpp.o: \
  ../src/main/clang/binary_tree/TreeSample.cpp \

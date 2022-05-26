@@ -190,6 +190,30 @@ main01.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training02.dir/build.make CMakeFiles/algorithm_training02.dir/main01.cpp.s
 .PHONY : main01.cpp.s
 
+src/main/clang/binary_tree/BinTreeDemo.o: src/main/clang/binary_tree/BinTreeDemo.cpp.o
+.PHONY : src/main/clang/binary_tree/BinTreeDemo.o
+
+# target to build an object file
+src/main/clang/binary_tree/BinTreeDemo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training02.dir/build.make CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.o
+.PHONY : src/main/clang/binary_tree/BinTreeDemo.cpp.o
+
+src/main/clang/binary_tree/BinTreeDemo.i: src/main/clang/binary_tree/BinTreeDemo.cpp.i
+.PHONY : src/main/clang/binary_tree/BinTreeDemo.i
+
+# target to preprocess a source file
+src/main/clang/binary_tree/BinTreeDemo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training02.dir/build.make CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.i
+.PHONY : src/main/clang/binary_tree/BinTreeDemo.cpp.i
+
+src/main/clang/binary_tree/BinTreeDemo.s: src/main/clang/binary_tree/BinTreeDemo.cpp.s
+.PHONY : src/main/clang/binary_tree/BinTreeDemo.s
+
+# target to generate assembly for a file
+src/main/clang/binary_tree/BinTreeDemo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training02.dir/build.make CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.s
+.PHONY : src/main/clang/binary_tree/BinTreeDemo.cpp.s
+
 src/main/clang/binary_tree/TreeCase.o: src/main/clang/binary_tree/TreeCase.cpp.o
 .PHONY : src/main/clang/binary_tree/TreeCase.o
 
@@ -213,6 +237,30 @@ src/main/clang/binary_tree/TreeCase.s: src/main/clang/binary_tree/TreeCase.cpp.s
 src/main/clang/binary_tree/TreeCase.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training02.dir/build.make CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeCase.cpp.s
 .PHONY : src/main/clang/binary_tree/TreeCase.cpp.s
+
+src/main/clang/binary_tree/TreeDemo.o: src/main/clang/binary_tree/TreeDemo.cpp.o
+.PHONY : src/main/clang/binary_tree/TreeDemo.o
+
+# target to build an object file
+src/main/clang/binary_tree/TreeDemo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training02.dir/build.make CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.o
+.PHONY : src/main/clang/binary_tree/TreeDemo.cpp.o
+
+src/main/clang/binary_tree/TreeDemo.i: src/main/clang/binary_tree/TreeDemo.cpp.i
+.PHONY : src/main/clang/binary_tree/TreeDemo.i
+
+# target to preprocess a source file
+src/main/clang/binary_tree/TreeDemo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training02.dir/build.make CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.i
+.PHONY : src/main/clang/binary_tree/TreeDemo.cpp.i
+
+src/main/clang/binary_tree/TreeDemo.s: src/main/clang/binary_tree/TreeDemo.cpp.s
+.PHONY : src/main/clang/binary_tree/TreeDemo.s
+
+# target to generate assembly for a file
+src/main/clang/binary_tree/TreeDemo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training02.dir/build.make CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.s
+.PHONY : src/main/clang/binary_tree/TreeDemo.cpp.s
 
 src/main/clang/binary_tree/TreeSample.o: src/main/clang/binary_tree/TreeSample.cpp.o
 .PHONY : src/main/clang/binary_tree/TreeSample.o
@@ -326,9 +374,15 @@ help:
 	@echo "... main01.o"
 	@echo "... main01.i"
 	@echo "... main01.s"
+	@echo "... src/main/clang/binary_tree/BinTreeDemo.o"
+	@echo "... src/main/clang/binary_tree/BinTreeDemo.i"
+	@echo "... src/main/clang/binary_tree/BinTreeDemo.s"
 	@echo "... src/main/clang/binary_tree/TreeCase.o"
 	@echo "... src/main/clang/binary_tree/TreeCase.i"
 	@echo "... src/main/clang/binary_tree/TreeCase.s"
+	@echo "... src/main/clang/binary_tree/TreeDemo.o"
+	@echo "... src/main/clang/binary_tree/TreeDemo.i"
+	@echo "... src/main/clang/binary_tree/TreeDemo.s"
 	@echo "... src/main/clang/binary_tree/TreeSample.o"
 	@echo "... src/main/clang/binary_tree/TreeSample.i"
 	@echo "... src/main/clang/binary_tree/TreeSample.s"

@@ -120,7 +120,13 @@
 		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/main01.cpp">
 			<Option target="algorithm_training02"/>
 		</Unit>
+		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/BinTreeDemo.cpp">
+			<Option target="algorithm_training02"/>
+		</Unit>
 		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/TreeCase.cpp">
+			<Option target="algorithm_training02"/>
+		</Unit>
+		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/TreeDemo.cpp">
 			<Option target="algorithm_training02"/>
 		</Unit>
 		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/TreeSample.cpp">

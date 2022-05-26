@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/TreeCase.cpp
+/home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/BinTreeDemo.cpp
 ../../head/c_plus2.h
 /home/user/admin/workspace/clang/algorithm-training/src/main/head/c_plus2.h
 
@@ -16,5 +16,7 @@ string
 cstring
 -
 iostream
+-
+queue
 -
 

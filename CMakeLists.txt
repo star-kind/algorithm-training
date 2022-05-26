@@ -7,11 +7,15 @@ set(CMAKE_C_STANDARD 99)
 file(GLOB src_head_base "src/main/head/base.h")
 file(GLOB src_c_src_0 "src/main/clang/link_list_reversal/*.c")
 
-add_executable(algorithm_training main.c src/main/head/export_index.h
+add_executable(algorithm_training main.c
+        src/main/head/export_index.h
         ${src_head_base} ${src_c_src_0}
         src/main/clang/deque/DequeDemo.c
         src/main/clang/stack/TwoStackInOneArray.c)
 
 add_executable(algorithm_training02 main01.cpp
         src/main/clang/binary_tree/TreeSample.cpp
-        src/main/head/c_plus2.h src/main/clang/binary_tree/TreeCase.cpp)
+        src/main/head/c_plus2.h
+        src/main/clang/binary_tree/TreeCase.cpp
+        src/main/clang/binary_tree/TreeDemo.cpp
+        src/main/clang/binary_tree/BinTreeDemo.cpp)

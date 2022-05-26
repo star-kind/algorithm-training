@@ -105,11 +105,39 @@ CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeCase.cpp.s: c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeCase.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/TreeCase.cpp -o CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeCase.cpp.s
 
+CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.o: CMakeFiles/algorithm_training02.dir/flags.make
+CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.o: ../src/main/clang/binary_tree/TreeDemo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspace/clang/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.o -c /home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/TreeDemo.cpp
+
+CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/TreeDemo.cpp > CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.i
+
+CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/TreeDemo.cpp -o CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.s
+
+CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.o: CMakeFiles/algorithm_training02.dir/flags.make
+CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.o: ../src/main/clang/binary_tree/BinTreeDemo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspace/clang/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.o -c /home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/BinTreeDemo.cpp
+
+CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/BinTreeDemo.cpp > CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.i
+
+CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/BinTreeDemo.cpp -o CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.s
+
 # Object files for target algorithm_training02
 algorithm_training02_OBJECTS = \
 "CMakeFiles/algorithm_training02.dir/main01.cpp.o" \
 "CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeSample.cpp.o" \
-"CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeCase.cpp.o"
+"CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeCase.cpp.o" \
+"CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.o" \
+"CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.o"
 
 # External object files for target algorithm_training02
 algorithm_training02_EXTERNAL_OBJECTS =
@@ -117,9 +145,11 @@ algorithm_training02_EXTERNAL_OBJECTS =
 algorithm_training02: CMakeFiles/algorithm_training02.dir/main01.cpp.o
 algorithm_training02: CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeSample.cpp.o
 algorithm_training02: CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeCase.cpp.o
+algorithm_training02: CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.o
+algorithm_training02: CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.o
 algorithm_training02: CMakeFiles/algorithm_training02.dir/build.make
 algorithm_training02: CMakeFiles/algorithm_training02.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/user/admin/workspace/clang/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable algorithm_training02"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/user/admin/workspace/clang/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable algorithm_training02"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm_training02.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
