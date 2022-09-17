@@ -8,38 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug"/>
+				<Option working_dir="/home/user/admin/workspace/algorithm-training/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithm_training">
-				<Option output="/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/algorithm_training" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug"/>
+				<Option output="/home/user/admin/workspace/algorithm-training/cmake-build-debug/algorithm_training" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user/admin/workspace/algorithm-training/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -50,15 +30,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm_training"/>
-					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm_training"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithm_training/fast">
-				<Option output="/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/algorithm_training" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug"/>
+				<Option output="/home/user/admin/workspace/algorithm-training/cmake-build-debug/algorithm_training" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user/admin/workspace/algorithm-training/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -69,42 +49,61 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm_training/fast"/>
-					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 algorithm_training/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/user/admin/workspace/algorithm-training/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/user/admin/workspace/algorithm-training/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/user/admin/workspace/algorithm-training/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/main.c">
+		<Unit filename="/home/user/admin/workspace/algorithm-training/main.c">
 			<Option target="algorithm_training"/>
 		</Unit>
-<<<<<<< HEAD
-		<Unit filename="/home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c">
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c">
 			<Option target="algorithm_training"/>
 		</Unit>
-		<Unit filename="/home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/BinaryTree/LevelOrderTree.c">
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/BinaryTree/LevelOrderTree.c">
 			<Option target="algorithm_training"/>
 		</Unit>
-		<Unit filename="/home/user/admin/workspaces/clanguage/algorithm-training/src/main/clang/deque/DequeDemo.c">
-=======
-		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/clang/deque/DequeDemo.c">
->>>>>>> third-partner
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/deque/DequeDemo.c">
 			<Option target="algorithm_training"/>
 		</Unit>
-		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/clang/link_list_reversal/LinkListReversal.c">
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/link_list_reversal/LinkListReversal.c">
 			<Option target="algorithm_training"/>
 		</Unit>
-		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/clang/stack/TwoStackInOneArray.c">
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/stack/TwoStackInOneArray.c">
 			<Option target="algorithm_training"/>
 		</Unit>
-		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/head/base.h">
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/head/base.h">
 			<Option target="algorithm_training"/>
 		</Unit>
-		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/src/main/head/export_index.h">
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/head/clang_enhance.h">
 			<Option target="algorithm_training"/>
 		</Unit>
-		<Unit filename="/home/user/admin/workspaces/gcc-gpp/algorithm-training/CMakeLists.txt">
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/head/export_index.h">
+			<Option target="algorithm_training"/>
+		</Unit>
+		<Unit filename="/home/user/admin/workspace/algorithm-training/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

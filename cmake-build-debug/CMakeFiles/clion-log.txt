@@ -1,10 +1,4 @@
-/home/user/admin/softwares/clion-2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/user/admin/workspaces/gcc-gpp/algorithm-training
--- The C compiler identification is GNU 10.2.1
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: /usr/bin/cc - skipped
--- Detecting C compile features
--- Detecting C compile features - done
+/home/user/admin/software/clion2022/clion-2022.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/user/admin/workspace/algorithm-training -B /home/user/admin/workspace/algorithm-training/cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug
+-- Build files have been written to: /home/user/admin/workspace/algorithm-training/cmake-build-debug

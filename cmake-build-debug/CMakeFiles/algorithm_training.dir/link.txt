@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-/bin/cc -g CMakeFiles/algorithm_training.dir/main.c.o CMakeFiles/algorithm_training.dir/src/main/clang/link_list_reversal/LinkListReversal.c.o CMakeFiles/algorithm_training.dir/src/main/clang/deque/DequeDemo.c.o CMakeFiles/algorithm_training.dir/src/main/clang/stack/TwoStackInOneArray.c.o CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.o CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o -o algorithm_training 
-=======
-/usr/bin/cc -g CMakeFiles/algorithm_training.dir/main.c.o CMakeFiles/algorithm_training.dir/src/main/clang/link_list_reversal/LinkListReversal.c.o CMakeFiles/algorithm_training.dir/src/main/clang/deque/DequeDemo.c.o CMakeFiles/algorithm_training.dir/src/main/clang/stack/TwoStackInOneArray.c.o -o algorithm_training 
->>>>>>> third-partner
+/usr/bin/cc -g CMakeFiles/algorithm_training.dir/main.c.o CMakeFiles/algorithm_training.dir/src/main/clang/link_list_reversal/LinkListReversal.c.o CMakeFiles/algorithm_training.dir/src/main/clang/deque/DequeDemo.c.o CMakeFiles/algorithm_training.dir/src/main/clang/stack/TwoStackInOneArray.c.o CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.o CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/BinaryTreeLevelOrder.c.o -o algorithm_training 
