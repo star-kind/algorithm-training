@@ -1,4 +1,4 @@
-#include "../../head/c_plus2.h"
+#include "../../head/clang_plus_x.h"
 
 class TreeNode {
 public:

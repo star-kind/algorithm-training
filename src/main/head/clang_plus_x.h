@@ -1,5 +1,5 @@
-#ifndef ALGORITHM_TRAINING02_C_PLUS2_H
-#define ALGORITHM_TRAINING02_C_PLUS2_H
+#ifndef ALGORITHM_TRAINING02_CLANG_PLUS_X_H
+#define ALGORITHM_TRAINING02_CLANG_PLUS_X_H
 
 #include<string>
 #include<cstring>
@@ -16,4 +16,6 @@ void TestTreeDemo();
 
 void TestBinaryTreeDemo();
 
-#endif //ALGORITHM_TRAINING02_C_PLUS2_H
+void principal();
+
+#endif //ALGORITHM_TRAINING02_CLANG_PLUS_X_H

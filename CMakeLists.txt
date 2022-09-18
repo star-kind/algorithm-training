@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.19.2)
 project(algorithm_training C)
-project(algorithm_training02 CXX)
+project(algorithm_training_cpp CXX)
 
 set(CMAKE_C_STANDARD 99)
 
@@ -13,9 +13,10 @@ add_executable(algorithm_training main.c
         src/main/clang/deque/DequeDemo.c
         src/main/clang/stack/TwoStackInOneArray.c)
 
-add_executable(algorithm_training02 main01.cpp
+add_executable(algorithm_training_cpp main_cxx.cpp
         src/main/clang/binary_tree/TreeSample.cpp
-        src/main/head/c_plus2.h
+        src/main/head/clang_plus_x.h
         src/main/clang/binary_tree/TreeCase.cpp
         src/main/clang/binary_tree/TreeDemo.cpp
-        src/main/clang/binary_tree/BinTreeDemo.cpp)
+        src/main/clang/binary_tree/BinTreeDemo.cpp
+        )

@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algorithm_training02.dir/main01.cpp.o"
+  "CMakeFiles/algorithm_training02.dir/main_cxx.cpp.o"
   "CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinTreeDemo.cpp.o"
+  "CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/BinaryTreeCase01.cpp.o"
   "CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeCase.cpp.o"
   "CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeDemo.cpp.o"
   "CMakeFiles/algorithm_training02.dir/src/main/clang/binary_tree/TreeSample.cpp.o"

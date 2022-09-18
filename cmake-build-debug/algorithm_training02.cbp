@@ -117,10 +117,13 @@
 		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/main.c">
 			<Option target="algorithm_training"/>
 		</Unit>
-		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/main01.cpp">
+		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/main_cxx.cpp">
 			<Option target="algorithm_training02"/>
 		</Unit>
 		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/BinTreeDemo.cpp">
+			<Option target="algorithm_training02"/>
+		</Unit>
+		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/BinaryTreeCase01.cpp">
 			<Option target="algorithm_training02"/>
 		</Unit>
 		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/clang/binary_tree/TreeCase.cpp">
@@ -144,7 +147,7 @@
 		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/head/base.h">
 			<Option target="algorithm_training"/>
 		</Unit>
-		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/head/c_plus2.h">
+		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/head/clang_plus_x.h">
 			<Option target="algorithm_training02"/>
 		</Unit>
 		<Unit filename="/home/user/admin/workspace/clang/algorithm-training/src/main/head/export_index.h">
