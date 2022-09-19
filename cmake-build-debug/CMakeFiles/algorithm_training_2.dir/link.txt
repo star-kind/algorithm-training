@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/algorithm_training_2.dir/main2.cpp.o -o algorithm_training_2 
+/usr/bin/c++ -g CMakeFiles/algorithm_training_2.dir/main2.cpp.o CMakeFiles/algorithm_training_2.dir/src/main/clang/bin_tree_attempt/three_ele_method.cpp.o -o algorithm_training_2 

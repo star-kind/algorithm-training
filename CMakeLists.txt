@@ -16,4 +16,4 @@ add_executable(algorithm_training main.c
         src/main/clang/stack/TwoStackInOneArray.c)
 
 add_executable(algorithm_training_2 main2.cpp
-        src/main/head/cpp_index.h)
+        src/main/head/cpp_index.h src/main/clang/bin_tree_attempt/three_ele_method.cpp)

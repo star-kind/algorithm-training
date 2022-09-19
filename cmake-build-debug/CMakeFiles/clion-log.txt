@@ -1,4 +1,4 @@
-/home/user/admin/softwares/clion-2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/user/admin/workspaces/gcc-gpp/algorithm-training
+/home/user/admin/softwares/clion2022/clion-2022.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/user/admin/repositories/cpp-lang/algorithm-training -B /home/user/admin/repositories/cpp-lang/algorithm-training/cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug
+-- Build files have been written to: /home/user/admin/repositories/cpp-lang/algorithm-training/cmake-build-debug

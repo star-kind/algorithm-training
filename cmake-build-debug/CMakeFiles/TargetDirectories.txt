@@ -1,4 +1,4 @@
-/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/CMakeFiles/algorithm_training_2.dir
-/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/user/admin/workspaces/gcc-gpp/algorithm-training/cmake-build-debug/CMakeFiles/algorithm_training.dir
+/home/user/admin/repositories/cpp-lang/algorithm-training/cmake-build-debug/CMakeFiles/algorithm_training.dir
+/home/user/admin/repositories/cpp-lang/algorithm-training/cmake-build-debug/CMakeFiles/algorithm_training_2.dir
+/home/user/admin/repositories/cpp-lang/algorithm-training/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/admin/repositories/cpp-lang/algorithm-training/cmake-build-debug/CMakeFiles/rebuild_cache.dir
