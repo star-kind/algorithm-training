@@ -109,12 +109,12 @@ CMakeFiles/algorithm_training.dir/clean:
 CMakeFiles/algorithm_training_enhance.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=8,9,10,11 "Built target algorithm_training_enhance"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=8,9,10,11,12 "Built target algorithm_training_enhance"
 .PHONY : CMakeFiles/algorithm_training_enhance.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/algorithm_training_enhance.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/algorithm_training_enhance.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/algorithm_training_enhance.dir/rule

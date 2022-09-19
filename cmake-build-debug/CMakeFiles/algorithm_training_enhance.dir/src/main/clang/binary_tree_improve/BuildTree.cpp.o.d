@@ -1,5 +1,5 @@
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o: \
- /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/trunk.cpp \
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o: \
+ /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/BuildTree.cpp \
  /usr/include/stdc-predef.h \
  /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/../../head/clang_enhance.h \
  /usr/include/c++/10/iostream \

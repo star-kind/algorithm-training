@@ -147,4 +147,8 @@ CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/Spl
  /usr/include/c++/10/bits/stl_vector.h \
  /usr/include/c++/10/bits/stl_bvector.h \
  /usr/include/c++/10/bits/vector.tcc /usr/include/c++/10/cstring \
- /usr/include/string.h /usr/include/strings.h
+ /usr/include/string.h /usr/include/strings.h /usr/include/c++/10/queue \
+ /usr/include/c++/10/deque /usr/include/c++/10/bits/stl_deque.h \
+ /usr/include/c++/10/bits/deque.tcc /usr/include/c++/10/bits/stl_heap.h \
+ /usr/include/c++/10/bits/stl_queue.h \
+ /usr/include/c++/10/bits/uses_allocator.h

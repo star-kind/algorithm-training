@@ -238,6 +238,30 @@ src/main/clang/BinaryTree/LevelOrderTree.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.s
 .PHONY : src/main/clang/BinaryTree/LevelOrderTree.c.s
 
+src/main/clang/binary_tree_improve/BuildTree.o: src/main/clang/binary_tree_improve/BuildTree.cpp.o
+.PHONY : src/main/clang/binary_tree_improve/BuildTree.o
+
+# target to build an object file
+src/main/clang/binary_tree_improve/BuildTree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o
+.PHONY : src/main/clang/binary_tree_improve/BuildTree.cpp.o
+
+src/main/clang/binary_tree_improve/BuildTree.i: src/main/clang/binary_tree_improve/BuildTree.cpp.i
+.PHONY : src/main/clang/binary_tree_improve/BuildTree.i
+
+# target to preprocess a source file
+src/main/clang/binary_tree_improve/BuildTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.i
+.PHONY : src/main/clang/binary_tree_improve/BuildTree.cpp.i
+
+src/main/clang/binary_tree_improve/BuildTree.s: src/main/clang/binary_tree_improve/BuildTree.cpp.s
+.PHONY : src/main/clang/binary_tree_improve/BuildTree.s
+
+# target to generate assembly for a file
+src/main/clang/binary_tree_improve/BuildTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.s
+.PHONY : src/main/clang/binary_tree_improve/BuildTree.cpp.s
+
 src/main/clang/binary_tree_improve/SplitString.o: src/main/clang/binary_tree_improve/SplitString.cpp.o
 .PHONY : src/main/clang/binary_tree_improve/SplitString.o
 
@@ -380,6 +404,9 @@ help:
 	@echo "... src/main/clang/BinaryTree/LevelOrderTree.o"
 	@echo "... src/main/clang/BinaryTree/LevelOrderTree.i"
 	@echo "... src/main/clang/BinaryTree/LevelOrderTree.s"
+	@echo "... src/main/clang/binary_tree_improve/BuildTree.o"
+	@echo "... src/main/clang/binary_tree_improve/BuildTree.i"
+	@echo "... src/main/clang/binary_tree_improve/BuildTree.s"
 	@echo "... src/main/clang/binary_tree_improve/SplitString.o"
 	@echo "... src/main/clang/binary_tree_improve/SplitString.i"
 	@echo "... src/main/clang/binary_tree_improve/SplitString.s"
