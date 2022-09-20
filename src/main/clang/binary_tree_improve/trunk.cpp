@@ -26,17 +26,4 @@ void trunk_execute() {
     }
     cout << "\n" << "--------------------------------------------" << "\n";
 
-    que = generate_root(tree, que, vtr_dual[0]);
-    cout << "trace00==" << que.back()->data << "\n";
-
-    que = create_tree_nodes(que, vtr_dual[1]);
-    cout << "trace01==" << que.back()->data << "\n";
-
-    que = create_tree_nodes(que, vtr_dual[2]);
-    cout << "trace02==" << que.back()->data << "\n";
-
-    //TODO Here Beginning
-    que = create_tree_nodes(que, vtr_dual[3]);
-    cout << "trace03==" << que.back()->data << "\n";
-
 }
