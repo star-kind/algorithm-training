@@ -2,6 +2,6 @@
 
 int main() {
 //    cout << "hello,world" << "\n";
-    trunk_execute();
+    centralCapital();
     return 0;
 }

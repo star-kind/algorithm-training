@@ -16,10 +16,6 @@ typedef struct BinTreeNode {
 
 vector<string> separate(string &str_parameter, char *identification);
 
-void trunk_execute();
-
-queue<biTrNode *> generate_root(biTrNode *&tr, queue<biTrNode *> q, vector<string> v);
-
-queue<biTrNode *> create_tree_nodes(queue<biTrNode *> q, vector<string> v);
+void centralCapital();
 
 #endif //ALGORITHM_TRAINING_CLANG_ENHANCE_H
