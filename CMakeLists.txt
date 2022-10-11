@@ -18,5 +18,4 @@ add_executable(algorithm_training main.c
 
 add_executable(algorithm_training_enhance main_enhance.cpp
         src/main/head/clang_enhance.h
-        src/main/clang/binary_tree_improve/SplitString.cpp
-        src/main/clang/binary_tree_improve/CentralCapital.cpp src/main/clang/binary_tree_improve/BuildTree.cpp)
+        src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp)

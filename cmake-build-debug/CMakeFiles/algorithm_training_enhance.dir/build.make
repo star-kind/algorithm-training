@@ -83,65 +83,33 @@ CMakeFiles/algorithm_training_enhance.dir/main_enhance.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training_enhance.dir/main_enhance.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/algorithm-training/main_enhance.cpp -o CMakeFiles/algorithm_training_enhance.dir/main_enhance.cpp.s
 
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.o: CMakeFiles/algorithm_training_enhance.dir/flags.make
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.o: ../src/main/clang/binary_tree_improve/SplitString.cpp
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.o: CMakeFiles/algorithm_training_enhance.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.o -MF CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.o.d -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.o -c /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/SplitString.cpp
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o: CMakeFiles/algorithm_training_enhance.dir/flags.make
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o: ../src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o: CMakeFiles/algorithm_training_enhance.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o -MF CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o.d -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o -c /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp
 
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/SplitString.cpp > CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.i
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp > CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.i
 
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/SplitString.cpp -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.s
-
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o: CMakeFiles/algorithm_training_enhance.dir/flags.make
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o: ../src/main/clang/binary_tree_improve/trunk.cpp
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o: CMakeFiles/algorithm_training_enhance.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o -MF CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o.d -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o -c /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/trunk.cpp
-
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/trunk.cpp > CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.i
-
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/trunk.cpp -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.s
-
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o: CMakeFiles/algorithm_training_enhance.dir/flags.make
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o: ../src/main/clang/binary_tree_improve/BuildTree.cpp
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o: CMakeFiles/algorithm_training_enhance.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o -MF CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o.d -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o -c /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/BuildTree.cpp
-
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/BuildTree.cpp > CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.i
-
-CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/BuildTree.cpp -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.s
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.s
 
 # Object files for target algorithm_training_enhance
 algorithm_training_enhance_OBJECTS = \
 "CMakeFiles/algorithm_training_enhance.dir/main_enhance.cpp.o" \
-"CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.o" \
-"CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o" \
-"CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o"
+"CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o"
 
 # External object files for target algorithm_training_enhance
 algorithm_training_enhance_EXTERNAL_OBJECTS =
 
 algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/main_enhance.cpp.o
-algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.o
-algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o
-algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o
+algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o
 algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/build.make
 algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable algorithm_training_enhance"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable algorithm_training_enhance"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm_training_enhance.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

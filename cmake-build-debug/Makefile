@@ -238,77 +238,29 @@ src/main/clang/BinaryTree/LevelOrderTree.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/src/main/clang/BinaryTree/LevelOrderTree.c.s
 .PHONY : src/main/clang/BinaryTree/LevelOrderTree.c.s
 
-src/main/clang/binary_tree_improve/BuildTree.o: src/main/clang/binary_tree_improve/BuildTree.cpp.o
-.PHONY : src/main/clang/binary_tree_improve/BuildTree.o
+src/main/clang/binary_tree_improve/ArrBuildsTrees.o: src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o
+.PHONY : src/main/clang/binary_tree_improve/ArrBuildsTrees.o
 
 # target to build an object file
-src/main/clang/binary_tree_improve/BuildTree.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.o
-.PHONY : src/main/clang/binary_tree_improve/BuildTree.cpp.o
+src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o
+.PHONY : src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o
 
-src/main/clang/binary_tree_improve/BuildTree.i: src/main/clang/binary_tree_improve/BuildTree.cpp.i
-.PHONY : src/main/clang/binary_tree_improve/BuildTree.i
-
-# target to preprocess a source file
-src/main/clang/binary_tree_improve/BuildTree.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.i
-.PHONY : src/main/clang/binary_tree_improve/BuildTree.cpp.i
-
-src/main/clang/binary_tree_improve/BuildTree.s: src/main/clang/binary_tree_improve/BuildTree.cpp.s
-.PHONY : src/main/clang/binary_tree_improve/BuildTree.s
-
-# target to generate assembly for a file
-src/main/clang/binary_tree_improve/BuildTree.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/BuildTree.cpp.s
-.PHONY : src/main/clang/binary_tree_improve/BuildTree.cpp.s
-
-src/main/clang/binary_tree_improve/SplitString.o: src/main/clang/binary_tree_improve/SplitString.cpp.o
-.PHONY : src/main/clang/binary_tree_improve/SplitString.o
-
-# target to build an object file
-src/main/clang/binary_tree_improve/SplitString.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.o
-.PHONY : src/main/clang/binary_tree_improve/SplitString.cpp.o
-
-src/main/clang/binary_tree_improve/SplitString.i: src/main/clang/binary_tree_improve/SplitString.cpp.i
-.PHONY : src/main/clang/binary_tree_improve/SplitString.i
+src/main/clang/binary_tree_improve/ArrBuildsTrees.i: src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.i
+.PHONY : src/main/clang/binary_tree_improve/ArrBuildsTrees.i
 
 # target to preprocess a source file
-src/main/clang/binary_tree_improve/SplitString.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.i
-.PHONY : src/main/clang/binary_tree_improve/SplitString.cpp.i
+src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.i
+.PHONY : src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.i
 
-src/main/clang/binary_tree_improve/SplitString.s: src/main/clang/binary_tree_improve/SplitString.cpp.s
-.PHONY : src/main/clang/binary_tree_improve/SplitString.s
-
-# target to generate assembly for a file
-src/main/clang/binary_tree_improve/SplitString.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/SplitString.cpp.s
-.PHONY : src/main/clang/binary_tree_improve/SplitString.cpp.s
-
-src/main/clang/binary_tree_improve/trunk.o: src/main/clang/binary_tree_improve/trunk.cpp.o
-.PHONY : src/main/clang/binary_tree_improve/trunk.o
-
-# target to build an object file
-src/main/clang/binary_tree_improve/trunk.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.o
-.PHONY : src/main/clang/binary_tree_improve/trunk.cpp.o
-
-src/main/clang/binary_tree_improve/trunk.i: src/main/clang/binary_tree_improve/trunk.cpp.i
-.PHONY : src/main/clang/binary_tree_improve/trunk.i
-
-# target to preprocess a source file
-src/main/clang/binary_tree_improve/trunk.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.i
-.PHONY : src/main/clang/binary_tree_improve/trunk.cpp.i
-
-src/main/clang/binary_tree_improve/trunk.s: src/main/clang/binary_tree_improve/trunk.cpp.s
-.PHONY : src/main/clang/binary_tree_improve/trunk.s
+src/main/clang/binary_tree_improve/ArrBuildsTrees.s: src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.s
+.PHONY : src/main/clang/binary_tree_improve/ArrBuildsTrees.s
 
 # target to generate assembly for a file
-src/main/clang/binary_tree_improve/trunk.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/trunk.cpp.s
-.PHONY : src/main/clang/binary_tree_improve/trunk.cpp.s
+src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.s
+.PHONY : src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.s
 
 src/main/clang/deque/DequeDemo.o: src/main/clang/deque/DequeDemo.c.o
 .PHONY : src/main/clang/deque/DequeDemo.o
@@ -404,15 +356,9 @@ help:
 	@echo "... src/main/clang/BinaryTree/LevelOrderTree.o"
 	@echo "... src/main/clang/BinaryTree/LevelOrderTree.i"
 	@echo "... src/main/clang/BinaryTree/LevelOrderTree.s"
-	@echo "... src/main/clang/binary_tree_improve/BuildTree.o"
-	@echo "... src/main/clang/binary_tree_improve/BuildTree.i"
-	@echo "... src/main/clang/binary_tree_improve/BuildTree.s"
-	@echo "... src/main/clang/binary_tree_improve/SplitString.o"
-	@echo "... src/main/clang/binary_tree_improve/SplitString.i"
-	@echo "... src/main/clang/binary_tree_improve/SplitString.s"
-	@echo "... src/main/clang/binary_tree_improve/trunk.o"
-	@echo "... src/main/clang/binary_tree_improve/trunk.i"
-	@echo "... src/main/clang/binary_tree_improve/trunk.s"
+	@echo "... src/main/clang/binary_tree_improve/ArrBuildsTrees.o"
+	@echo "... src/main/clang/binary_tree_improve/ArrBuildsTrees.i"
+	@echo "... src/main/clang/binary_tree_improve/ArrBuildsTrees.s"
 	@echo "... src/main/clang/deque/DequeDemo.o"
 	@echo "... src/main/clang/deque/DequeDemo.i"
 	@echo "... src/main/clang/deque/DequeDemo.s"

@@ -126,13 +126,7 @@
 		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/BinaryTree/LevelOrderTree.c">
 			<Option target="algorithm_training"/>
 		</Unit>
-		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/BuildTree.cpp">
-			<Option target="algorithm_training_enhance"/>
-		</Unit>
-		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/SplitString.cpp">
-			<Option target="algorithm_training_enhance"/>
-		</Unit>
-		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/trunk.cpp">
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp">
 			<Option target="algorithm_training_enhance"/>
 		</Unit>
 		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/deque/DequeDemo.c">
