@@ -262,6 +262,30 @@ src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.s
 .PHONY : src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.s
 
+src/main/clang/binary_tree_improve/EntirelyBinTree.o: src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.o
+.PHONY : src/main/clang/binary_tree_improve/EntirelyBinTree.o
+
+# target to build an object file
+src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.o
+.PHONY : src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.o
+
+src/main/clang/binary_tree_improve/EntirelyBinTree.i: src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.i
+.PHONY : src/main/clang/binary_tree_improve/EntirelyBinTree.i
+
+# target to preprocess a source file
+src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.i
+.PHONY : src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.i
+
+src/main/clang/binary_tree_improve/EntirelyBinTree.s: src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.s
+.PHONY : src/main/clang/binary_tree_improve/EntirelyBinTree.s
+
+# target to generate assembly for a file
+src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.s
+.PHONY : src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.s
+
 src/main/clang/deque/DequeDemo.o: src/main/clang/deque/DequeDemo.c.o
 .PHONY : src/main/clang/deque/DequeDemo.o
 
@@ -359,6 +383,9 @@ help:
 	@echo "... src/main/clang/binary_tree_improve/ArrBuildsTrees.o"
 	@echo "... src/main/clang/binary_tree_improve/ArrBuildsTrees.i"
 	@echo "... src/main/clang/binary_tree_improve/ArrBuildsTrees.s"
+	@echo "... src/main/clang/binary_tree_improve/EntirelyBinTree.o"
+	@echo "... src/main/clang/binary_tree_improve/EntirelyBinTree.i"
+	@echo "... src/main/clang/binary_tree_improve/EntirelyBinTree.s"
 	@echo "... src/main/clang/deque/DequeDemo.o"
 	@echo "... src/main/clang/deque/DequeDemo.i"
 	@echo "... src/main/clang/deque/DequeDemo.s"

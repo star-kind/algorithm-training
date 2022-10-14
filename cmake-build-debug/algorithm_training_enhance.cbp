@@ -129,6 +129,9 @@
 		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp">
 			<Option target="algorithm_training_enhance"/>
 		</Unit>
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp">
+			<Option target="algorithm_training_enhance"/>
+		</Unit>
 		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/deque/DequeDemo.c">
 			<Option target="algorithm_training"/>
 		</Unit>

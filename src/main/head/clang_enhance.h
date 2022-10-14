@@ -11,4 +11,6 @@ using namespace std;
 
 void executesArrBuilds();
 
+void executesEntireBinTree();
+
 #endif //ALGORITHM_TRAINING_CLANG_ENHANCE_H
