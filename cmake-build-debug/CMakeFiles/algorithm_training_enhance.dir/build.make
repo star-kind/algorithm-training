@@ -111,11 +111,56 @@ CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/Ent
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/algorithm-training/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.s
 
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o: CMakeFiles/algorithm_training_enhance.dir/flags.make
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o: ../src/main/clang/heaps/HeapSortsDemo.cpp
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o: CMakeFiles/algorithm_training_enhance.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o -MF CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o.d -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o -c /home/user/admin/workspace/algorithm-training/src/main/clang/heaps/HeapSortsDemo.cpp
+
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/admin/workspace/algorithm-training/src/main/clang/heaps/HeapSortsDemo.cpp > CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.i
+
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/algorithm-training/src/main/clang/heaps/HeapSortsDemo.cpp -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.s
+
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o: CMakeFiles/algorithm_training_enhance.dir/flags.make
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o: ../src/main/clang/heaps/HeapSortDemo1.cpp
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o: CMakeFiles/algorithm_training_enhance.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o -MF CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o.d -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o -c /home/user/admin/workspace/algorithm-training/src/main/clang/heaps/HeapSortDemo1.cpp
+
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/admin/workspace/algorithm-training/src/main/clang/heaps/HeapSortDemo1.cpp > CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.i
+
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/algorithm-training/src/main/clang/heaps/HeapSortDemo1.cpp -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.s
+
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o: CMakeFiles/algorithm_training_enhance.dir/flags.make
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o: ../src/main/clang/heaps/HeapSortSample.cpp
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o: CMakeFiles/algorithm_training_enhance.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o -MF CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o.d -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o -c /home/user/admin/workspace/algorithm-training/src/main/clang/heaps/HeapSortSample.cpp
+
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/admin/workspace/algorithm-training/src/main/clang/heaps/HeapSortSample.cpp > CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.i
+
+CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/admin/workspace/algorithm-training/src/main/clang/heaps/HeapSortSample.cpp -o CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.s
+
 # Object files for target algorithm_training_enhance
 algorithm_training_enhance_OBJECTS = \
 "CMakeFiles/algorithm_training_enhance.dir/main_enhance.cpp.o" \
 "CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o" \
-"CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.o"
+"CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.o" \
+"CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o" \
+"CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o" \
+"CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o"
 
 # External object files for target algorithm_training_enhance
 algorithm_training_enhance_EXTERNAL_OBJECTS =
@@ -123,9 +168,12 @@ algorithm_training_enhance_EXTERNAL_OBJECTS =
 algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/main_enhance.cpp.o
 algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o
 algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.o
+algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o
+algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o
+algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o
 algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/build.make
 algorithm_training_enhance: CMakeFiles/algorithm_training_enhance.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable algorithm_training_enhance"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/user/admin/workspace/algorithm-training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable algorithm_training_enhance"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm_training_enhance.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

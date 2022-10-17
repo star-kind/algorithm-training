@@ -5,6 +5,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp.o.d"
   "CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.o"
   "CMakeFiles/algorithm_training_enhance.dir/src/main/clang/binary_tree_improve/EntirelyBinTree.cpp.o.d"
+  "CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o"
+  "CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o.d"
+  "CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o"
+  "CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o.d"
+  "CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o"
+  "CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o.d"
   "algorithm_training_enhance"
   "algorithm_training_enhance.pdb"
 )

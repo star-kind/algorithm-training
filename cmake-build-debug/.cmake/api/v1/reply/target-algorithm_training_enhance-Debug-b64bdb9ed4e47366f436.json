@@ -43,7 +43,10 @@
 			[
 				0,
 				2,
-				3
+				3,
+				4,
+				5,
+				6
 			]
 		}
 	],
@@ -78,7 +81,10 @@
 			[
 				0,
 				2,
-				3
+				3,
+				4,
+				5,
+				6
 			]
 		},
 		{
@@ -112,6 +118,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "src/main/clang/binary_tree_improve/EntirelyBinTree.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main/clang/heaps/HeapSortsDemo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main/clang/heaps/HeapSortDemo1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main/clang/heaps/HeapSortSample.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

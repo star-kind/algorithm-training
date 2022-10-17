@@ -9,8 +9,20 @@
 
 using namespace std;
 
+// #########################################
+
+void exchangeBlocks(int *arr, int a, int b);
+
+// #########################################
+
 void executesArrBuilds();
 
 void executesEntireBinTree();
+
+void executeHeapSortsDemo();
+
+void executingHeapSortDemo1();
+
+void executeHeapSortSample();
 
 #endif //ALGORITHM_TRAINING_CLANG_ENHANCE_H

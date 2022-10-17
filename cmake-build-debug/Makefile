@@ -310,6 +310,78 @@ src/main/clang/deque/DequeDemo.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/src/main/clang/deque/DequeDemo.c.s
 .PHONY : src/main/clang/deque/DequeDemo.c.s
 
+src/main/clang/heaps/HeapSortDemo1.o: src/main/clang/heaps/HeapSortDemo1.cpp.o
+.PHONY : src/main/clang/heaps/HeapSortDemo1.o
+
+# target to build an object file
+src/main/clang/heaps/HeapSortDemo1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.o
+.PHONY : src/main/clang/heaps/HeapSortDemo1.cpp.o
+
+src/main/clang/heaps/HeapSortDemo1.i: src/main/clang/heaps/HeapSortDemo1.cpp.i
+.PHONY : src/main/clang/heaps/HeapSortDemo1.i
+
+# target to preprocess a source file
+src/main/clang/heaps/HeapSortDemo1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.i
+.PHONY : src/main/clang/heaps/HeapSortDemo1.cpp.i
+
+src/main/clang/heaps/HeapSortDemo1.s: src/main/clang/heaps/HeapSortDemo1.cpp.s
+.PHONY : src/main/clang/heaps/HeapSortDemo1.s
+
+# target to generate assembly for a file
+src/main/clang/heaps/HeapSortDemo1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortDemo1.cpp.s
+.PHONY : src/main/clang/heaps/HeapSortDemo1.cpp.s
+
+src/main/clang/heaps/HeapSortSample.o: src/main/clang/heaps/HeapSortSample.cpp.o
+.PHONY : src/main/clang/heaps/HeapSortSample.o
+
+# target to build an object file
+src/main/clang/heaps/HeapSortSample.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.o
+.PHONY : src/main/clang/heaps/HeapSortSample.cpp.o
+
+src/main/clang/heaps/HeapSortSample.i: src/main/clang/heaps/HeapSortSample.cpp.i
+.PHONY : src/main/clang/heaps/HeapSortSample.i
+
+# target to preprocess a source file
+src/main/clang/heaps/HeapSortSample.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.i
+.PHONY : src/main/clang/heaps/HeapSortSample.cpp.i
+
+src/main/clang/heaps/HeapSortSample.s: src/main/clang/heaps/HeapSortSample.cpp.s
+.PHONY : src/main/clang/heaps/HeapSortSample.s
+
+# target to generate assembly for a file
+src/main/clang/heaps/HeapSortSample.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortSample.cpp.s
+.PHONY : src/main/clang/heaps/HeapSortSample.cpp.s
+
+src/main/clang/heaps/HeapSortsDemo.o: src/main/clang/heaps/HeapSortsDemo.cpp.o
+.PHONY : src/main/clang/heaps/HeapSortsDemo.o
+
+# target to build an object file
+src/main/clang/heaps/HeapSortsDemo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.o
+.PHONY : src/main/clang/heaps/HeapSortsDemo.cpp.o
+
+src/main/clang/heaps/HeapSortsDemo.i: src/main/clang/heaps/HeapSortsDemo.cpp.i
+.PHONY : src/main/clang/heaps/HeapSortsDemo.i
+
+# target to preprocess a source file
+src/main/clang/heaps/HeapSortsDemo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.i
+.PHONY : src/main/clang/heaps/HeapSortsDemo.cpp.i
+
+src/main/clang/heaps/HeapSortsDemo.s: src/main/clang/heaps/HeapSortsDemo.cpp.s
+.PHONY : src/main/clang/heaps/HeapSortsDemo.s
+
+# target to generate assembly for a file
+src/main/clang/heaps/HeapSortsDemo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/heaps/HeapSortsDemo.cpp.s
+.PHONY : src/main/clang/heaps/HeapSortsDemo.cpp.s
+
 src/main/clang/link_list_reversal/LinkListReversal.o: src/main/clang/link_list_reversal/LinkListReversal.c.o
 .PHONY : src/main/clang/link_list_reversal/LinkListReversal.o
 
@@ -389,6 +461,15 @@ help:
 	@echo "... src/main/clang/deque/DequeDemo.o"
 	@echo "... src/main/clang/deque/DequeDemo.i"
 	@echo "... src/main/clang/deque/DequeDemo.s"
+	@echo "... src/main/clang/heaps/HeapSortDemo1.o"
+	@echo "... src/main/clang/heaps/HeapSortDemo1.i"
+	@echo "... src/main/clang/heaps/HeapSortDemo1.s"
+	@echo "... src/main/clang/heaps/HeapSortSample.o"
+	@echo "... src/main/clang/heaps/HeapSortSample.i"
+	@echo "... src/main/clang/heaps/HeapSortSample.s"
+	@echo "... src/main/clang/heaps/HeapSortsDemo.o"
+	@echo "... src/main/clang/heaps/HeapSortsDemo.i"
+	@echo "... src/main/clang/heaps/HeapSortsDemo.s"
 	@echo "... src/main/clang/link_list_reversal/LinkListReversal.o"
 	@echo "... src/main/clang/link_list_reversal/LinkListReversal.i"
 	@echo "... src/main/clang/link_list_reversal/LinkListReversal.s"

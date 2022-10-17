@@ -2,6 +2,9 @@
 
 int main() {
 //    executesArrBuilds();
-    executesEntireBinTree();
+//    executesEntireBinTree();
+//    executeHeapSortsDemo();
+//    executingHeapSortDemo1();
+    executeHeapSortSample();
     return 0;
 }
