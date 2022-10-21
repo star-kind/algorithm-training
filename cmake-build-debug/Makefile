@@ -310,6 +310,30 @@ src/main/clang/deque/DequeDemo.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training.dir/build.make CMakeFiles/algorithm_training.dir/src/main/clang/deque/DequeDemo.c.s
 .PHONY : src/main/clang/deque/DequeDemo.c.s
 
+src/main/clang/graph/GraphTest.o: src/main/clang/graph/GraphTest.cpp.o
+.PHONY : src/main/clang/graph/GraphTest.o
+
+# target to build an object file
+src/main/clang/graph/GraphTest.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/graph/GraphTest.cpp.o
+.PHONY : src/main/clang/graph/GraphTest.cpp.o
+
+src/main/clang/graph/GraphTest.i: src/main/clang/graph/GraphTest.cpp.i
+.PHONY : src/main/clang/graph/GraphTest.i
+
+# target to preprocess a source file
+src/main/clang/graph/GraphTest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/graph/GraphTest.cpp.i
+.PHONY : src/main/clang/graph/GraphTest.cpp.i
+
+src/main/clang/graph/GraphTest.s: src/main/clang/graph/GraphTest.cpp.s
+.PHONY : src/main/clang/graph/GraphTest.s
+
+# target to generate assembly for a file
+src/main/clang/graph/GraphTest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm_training_enhance.dir/build.make CMakeFiles/algorithm_training_enhance.dir/src/main/clang/graph/GraphTest.cpp.s
+.PHONY : src/main/clang/graph/GraphTest.cpp.s
+
 src/main/clang/heaps/HeapSortDemo1.o: src/main/clang/heaps/HeapSortDemo1.cpp.o
 .PHONY : src/main/clang/heaps/HeapSortDemo1.o
 
@@ -461,6 +485,9 @@ help:
 	@echo "... src/main/clang/deque/DequeDemo.o"
 	@echo "... src/main/clang/deque/DequeDemo.i"
 	@echo "... src/main/clang/deque/DequeDemo.s"
+	@echo "... src/main/clang/graph/GraphTest.o"
+	@echo "... src/main/clang/graph/GraphTest.i"
+	@echo "... src/main/clang/graph/GraphTest.s"
 	@echo "... src/main/clang/heaps/HeapSortDemo1.o"
 	@echo "... src/main/clang/heaps/HeapSortDemo1.i"
 	@echo "... src/main/clang/heaps/HeapSortDemo1.s"

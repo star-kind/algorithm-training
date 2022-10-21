@@ -25,4 +25,6 @@ void executingHeapSortDemo1();
 
 void executeHeapSortSample();
 
+void executeGraphTest();
+
 #endif //ALGORITHM_TRAINING_CLANG_ENHANCE_H

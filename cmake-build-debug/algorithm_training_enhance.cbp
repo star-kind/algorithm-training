@@ -135,6 +135,9 @@
 		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/deque/DequeDemo.c">
 			<Option target="algorithm_training"/>
 		</Unit>
+		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/graph/GraphTest.cpp">
+			<Option target="algorithm_training_enhance"/>
+		</Unit>
 		<Unit filename="/home/user/admin/workspace/algorithm-training/src/main/clang/heaps/HeapSortDemo1.cpp">
 			<Option target="algorithm_training_enhance"/>
 		</Unit>

@@ -21,4 +21,6 @@ add_executable(algorithm_training_enhance main_enhance.cpp
         src/main/clang/binary_tree_improve/ArrBuildsTrees.cpp
         src/main/clang/binary_tree_improve/EntirelyBinTree.cpp
         src/main/clang/heaps/HeapSortsDemo.cpp
-        src/main/clang/heaps/HeapSortDemo1.cpp src/main/clang/heaps/HeapSortSample.cpp)
+        src/main/clang/heaps/HeapSortDemo1.cpp
+        src/main/clang/heaps/HeapSortSample.cpp
+        src/main/clang/graph/GraphTest.cpp)
